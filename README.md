@@ -1,6 +1,8 @@
-# 🌟 Modern Portfolio Website
+# Portfolio - Chandala Satish Kumar
 
-A beautiful, responsive, and fully deployable portfolio website built with HTML, CSS, and JavaScript.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/satishkumarchandala/portfolio)
+
+A modern, responsive portfolio website showcasing my work as a Full Stack Developer.
 
 ## ✨ Features
 
